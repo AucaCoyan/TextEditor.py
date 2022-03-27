@@ -70,7 +70,7 @@ I'm open to suggestions or PRs!
 
 Please feel free to contribute as you wish
 
-## <!--- template
+<!--- template
 
 # Section 1
 
